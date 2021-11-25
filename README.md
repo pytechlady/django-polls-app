@@ -73,3 +73,7 @@ You are expected to complete this project using the following approach
 - Make sure you put both your frontend and backend skills into usage and build a unique, attractive and smashing web application that you will be proud of, after all, it’s your personal weblog.
 - When you are done with your implementation add the GitHub link to `part 1` readme file.
 - [OPTIONAL] Host the web application on any hosting platform of your choice (Heroku, Pythonanywhere, Digital Ocean, AWS etc) and add the link to `part 1` readme file
+
+# personal weblog
+
+- https://github.com/pytechlady/personal_weblog
